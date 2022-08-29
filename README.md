@@ -2,4 +2,4 @@
 
 Turkish Text Classification App
 
-Just run docker-compose up and go to the link http://localhost:3000/ and play with the app
+Just run docker-compose up and go to the link http://localhost:8080/ and play with the app
